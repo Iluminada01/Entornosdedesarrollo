@@ -7,7 +7,9 @@ public class Principal {
 		System.out.println("Este mensaje es para continuar con la práctica y modificar el programa");
 		System.out.println("Este es otro cambio");
 
-		
+		System.out.println("Hay que mostrar otro mensaje que "
+				+ "representa un cambio ");
+
 
 	}
 
